@@ -1,0 +1,5 @@
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Services\bin\Debug\HelloWorld.Services.dll
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Services\bin\Debug\HelloWorld.Services.pdb
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Services\obj\Debug\HelloWorld.Services.csprojResolveAssemblyReference.cache
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Services\obj\Debug\HelloWorld.Services.dll
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Services\obj\Debug\HelloWorld.Services.pdb

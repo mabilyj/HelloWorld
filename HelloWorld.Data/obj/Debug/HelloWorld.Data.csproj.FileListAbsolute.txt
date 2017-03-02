@@ -1,0 +1,4 @@
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.dll
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.pdb
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.dll
+C:\Projects\CroweProject\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.pdb

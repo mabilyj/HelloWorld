@@ -1,0 +1,8 @@
+C:\Projects\CroweProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Projects\CroweProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Projects\CroweProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Projects\CroweProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Projects\CroweProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Projects\CroweProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Projects\CroweProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.Services.dll
+C:\Projects\CroweProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.Services.pdb
